@@ -8,7 +8,7 @@ It's Ahmed AbdElnasser from Egypt, a web developer that has a passion in the tec
 
 you can check my repositories and kindly don't forget to start ⭐ any repository while finding it's helpful for you
 
-## &#x1f4c8; Github Stats & Top Languages
+## &#x1f4c8; Github Stats 
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-abdelnasser&show_icons=true&theme=material-palenight&count_private=true)
 
