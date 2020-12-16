@@ -11,7 +11,7 @@ you can check my repositories and kindly don't forget to start ⭐ any repositor
 ## &#x1f4c8; Github Stats 
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-abdelnasser&show_icons=true&theme=material-palenight&count_private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abdelnasser&hide=html,css&layout=compact&theme=material-palenight&layout=compact)
 
 
 - 🔭 I’m currently working on Digitalmagna as a web developer
