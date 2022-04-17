@@ -2,7 +2,7 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
-**ahmed-abdelnasser/ahmed-abdelnasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itsnasser/itsnasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 It's Ahmed AbdElnasser from Egypt, a web developer that has a passion in the technical field in general, specialized in web development.
 
@@ -10,11 +10,11 @@ you can check my repositories and kindly don't forget to start ⭐ any repositor
 
 ## &#x1f4c8; Github Stats 
 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-abdelnasser&show_icons=true&theme=material-palenight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abdelnasser&hide=html,css&layout=compact&theme=material-palenight&layout=compact)
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=itsnasser&show_icons=true&theme=material-palenight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnasser&hide=html,css&layout=compact&theme=material-palenight&layout=compact)
 
 
-- 🔭 I’m currently working on Digitalmagna as a web developer
+- 🔭 I’m currently working on IconCode as a web developer
 - 💬 Ask me about anything you want and it will be my pleasure to help you if i can.
 
 ### 🔧 Technologies & Tools
@@ -32,4 +32,4 @@ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/ahmed-abd-elnasser-85796b122/
+[2]: https://www.linkedin.com/in/itsnasser/
